@@ -1,0 +1,101 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: ASTERIA25PARTLIST.indd
+
+PACKAGE DATE: 2015-06-25 09:02
+Creation Date: 2014-11-14
+Modification Date: 2015-04-06
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+INBOOKLET SE.4X.PLN
+
+
+Non Opaque Objects :On Page1, 2
+
+FONTS
+6 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: OsnovaProLight; Type: OpenType Type 1, Status: OK
+- Name: OsnovaProThin; Type: OpenType Type 1, Status: OK
+- Name: Swiss721BT-Bold; Type: TrueType, Status: OK
+- Name: Swiss721BT-Light; Type: TrueType, Status: OK
+- Name: Swiss721BT-LightExtended; Type: TrueType, Status: OK
+- Name: Swiss721BT-Roman; Type: TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0,000; Lines/Inch: 0,000
+- Name and Type: Process Magenta; Angle: 0,000; Lines/Inch: 0,000
+- Name and Type: Process Yellow; Angle: 0,000; Lines/Inch: 0,000
+- Name and Type: Process Black; Angle: 0,000; Lines/Inch: 0,000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 5 Links Found; 0 Modified, 0 Missing
+Images: 0 Embedded, 4 use RGB color space
+
+
+PRINT SETTINGS
+PPD: N/A, (hp LaserJet 1000 (Copy 3))
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 51p0 x 66p0
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. ASTERIA25PARTLIST.indd; type: Adobe InDesign publication; size: 2328K
+2. OSNOVAPROLIGHT.OTF; type: Font file; size: 121K
+3. OSNOVAPROTHIN.OTF; type: Font file; size: 120K
+4. swissb.ttf; type: Font file; size: 35K
+5. swissl.ttf; type: Font file; size: 34K
+6. swissel.ttf; type: Font file; size: 36K
+7. swiss.ttf; type: Font file; size: 35K
+8. auraexplodedbottom.png; type: Linked file; size: 367K
+9. auraexplodedmid.png; type: Linked file; size: 382K
+10. auraexplodedtop.png; type: Linked file; size: 385K
+11. canopy exploded.png; type: Linked file; size: 7502K
+12. sensologofinalfordenise.eps; type: Linked file; size: 283K
